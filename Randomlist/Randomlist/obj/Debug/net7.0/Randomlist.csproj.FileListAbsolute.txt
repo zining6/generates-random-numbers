@@ -1,0 +1,15 @@
+/Users/zitonghuang/Projects/Randomlist/Randomlist/bin/Debug/net7.0/Randomlist
+/Users/zitonghuang/Projects/Randomlist/Randomlist/bin/Debug/net7.0/Randomlist.deps.json
+/Users/zitonghuang/Projects/Randomlist/Randomlist/bin/Debug/net7.0/Randomlist.runtimeconfig.json
+/Users/zitonghuang/Projects/Randomlist/Randomlist/bin/Debug/net7.0/Randomlist.dll
+/Users/zitonghuang/Projects/Randomlist/Randomlist/bin/Debug/net7.0/Randomlist.pdb
+/Users/zitonghuang/Projects/Randomlist/Randomlist/obj/Debug/net7.0/Randomlist.csproj.AssemblyReference.cache
+/Users/zitonghuang/Projects/Randomlist/Randomlist/obj/Debug/net7.0/Randomlist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zitonghuang/Projects/Randomlist/Randomlist/obj/Debug/net7.0/Randomlist.AssemblyInfoInputs.cache
+/Users/zitonghuang/Projects/Randomlist/Randomlist/obj/Debug/net7.0/Randomlist.AssemblyInfo.cs
+/Users/zitonghuang/Projects/Randomlist/Randomlist/obj/Debug/net7.0/Randomlist.csproj.CoreCompileInputs.cache
+/Users/zitonghuang/Projects/Randomlist/Randomlist/obj/Debug/net7.0/Randomlist.dll
+/Users/zitonghuang/Projects/Randomlist/Randomlist/obj/Debug/net7.0/refint/Randomlist.dll
+/Users/zitonghuang/Projects/Randomlist/Randomlist/obj/Debug/net7.0/Randomlist.pdb
+/Users/zitonghuang/Projects/Randomlist/Randomlist/obj/Debug/net7.0/Randomlist.genruntimeconfig.cache
+/Users/zitonghuang/Projects/Randomlist/Randomlist/obj/Debug/net7.0/ref/Randomlist.dll
